@@ -11,7 +11,7 @@ TurboCollections is a collection of custom data structures implemented in C# tha
 ## Installation
 To use the TurboCollections library in your own project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/turboCollections.git`
+1. Clone the repository: `git clone https://github.com/Armin-AF/turboCollections.git`
 2. Add the necessary files to your project.
 3. Reference the `TurboCollections` namespace in your code.
 4. Build and run your project.
